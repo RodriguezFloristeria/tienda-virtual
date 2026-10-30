@@ -1,0 +1,123 @@
+[
+  {
+    "categoria": "Floristería",
+    "clave": "9601125940337",
+    "descripcion": "",
+    "id": 7,
+    "imagen": "images/prod_7.jpg",
+    "nombre": "ARREGLOS FLORALES ",
+    "precio": 200.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  },
+  {
+    "categoria": "Floristería",
+    "clave": "INV - 00004",
+    "descripcion": "",
+    "id": 15,
+    "imagen": "images/prod_15.jpg",
+    "nombre": "CARTUCHOS",
+    "precio": 50.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  },
+  {
+    "categoria": "Floristería",
+    "clave": "4151267935725",
+    "descripcion": "",
+    "id": 8,
+    "imagen": "images/prod_8.jpg",
+    "nombre": "CORONAS FUNEBRES",
+    "precio": 200.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  },
+  {
+    "categoria": "Floristería",
+    "clave": "6800710003001",
+    "descripcion": "",
+    "id": 13,
+    "imagen": "images/prod_13.jpg",
+    "nombre": "CRISANTEMO",
+    "precio": 85.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  },
+  {
+    "categoria": "Floristería",
+    "clave": "4556826263324",
+    "descripcion": "",
+    "id": 9,
+    "imagen": "images/prod_9.jpg",
+    "nombre": "CRUZ FLORAL",
+    "precio": 130.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  },
+  {
+    "categoria": "Floristería",
+    "clave": "INV - 00005",
+    "descripcion": "",
+    "id": 16,
+    "imagen": "images/prod_16.jpg",
+    "nombre": "DALIA C/PUNTO",
+    "precio": 45.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  },
+  {
+    "categoria": "Floristería",
+    "clave": "7562005605138",
+    "descripcion": "",
+    "id": 17,
+    "imagen": "images/prod_17.jpg",
+    "nombre": "DALIA CON BRILLO",
+    "precio": 60.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  },
+  {
+    "categoria": "Floristería",
+    "clave": "6800710197007",
+    "descripcion": "",
+    "id": 14,
+    "imagen": "images/prod_14.jpg",
+    "nombre": "RAMO D/10 FLORES AZULES",
+    "precio": 105.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  },
+  {
+    "categoria": "Floristería",
+    "clave": "9654825810149",
+    "descripcion": "",
+    "id": 11,
+    "imagen": "images/prod_11.jpg",
+    "nombre": "RAMO DE ROSAS",
+    "precio": 65.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  },
+  {
+    "categoria": "Floristería",
+    "clave": "6800710201049",
+    "descripcion": "",
+    "id": 12,
+    "imagen": "images/prod_12.jpg",
+    "nombre": "RAMO DE ROSAS",
+    "precio": 55.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  },
+  {
+    "categoria": "Floristería",
+    "clave": "6800710002684",
+    "descripcion": "",
+    "id": 10,
+    "imagen": "images/prod_10.jpg",
+    "nombre": "RAMOS DE ROSAS",
+    "precio": 50.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  }
+]
