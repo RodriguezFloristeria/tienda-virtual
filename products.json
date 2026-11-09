@@ -242,6 +242,17 @@
     "unidad": "Pieza"
   },
   {
+    "categoria": "General",
+    "clave": "PROD-37",
+    "descripcion": "",
+    "id": 37,
+    "imagen": "images/prod_37.jpg",
+    "nombre": "RAMO LIRIOS ",
+    "precio": 60.0,
+    "tipo": "producto",
+    "unidad": "Pieza"
+  },
+  {
     "categoria": "Floristería",
     "clave": "6800710002684",
     "descripcion": "",
